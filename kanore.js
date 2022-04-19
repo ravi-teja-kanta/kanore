@@ -46,7 +46,6 @@ http.createServer((req, res) => {
 		})
 
 	}
-	// res.end();
 })
 	.listen(8787, () => {
 		console.log("kanore is running on 8787 !")
